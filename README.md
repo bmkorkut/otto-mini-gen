@@ -1,2 +1,2 @@
-# otto-mini-gen
+# tasvir
 Illustration generator in Ottoman miniature styling
